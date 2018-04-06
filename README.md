@@ -1,0 +1,1 @@
+This is made to understand the Observer pattern using subscribe and publish mechanism in plain Javascript.
